@@ -25,23 +25,19 @@ Welcome to my GitHub profile! I'm a **Laravel backend developer**, passionate ab
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rustamjon&show_icons=true&theme=tokyonight&count_private=true&hide=issues" alt="Rustamjon's GitHub Stats" />
-</p>
+<div align="center">    
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rjusm&theme=algolia&margin-w=0&count_private=true)](#)
+  
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustamjon&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
-</p>
+  
 
----
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjusm&theme=monokai)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjusm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)  |
+| ------------- | ------------- |
+|  ![RJUSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjusm&theme=prussian&show_icons=true&count_private=true) |   |
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rustamjon&theme=gruvbox&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
+</div>
 
 
 <!---
